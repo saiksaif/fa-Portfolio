@@ -13,6 +13,7 @@ import {
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
 } from "react-icons/ai";
+import data from "../Assets/data.json"
 
 import { CgFileDocument } from "react-icons/cg";
 
