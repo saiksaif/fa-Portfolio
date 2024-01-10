@@ -1,8 +1,10 @@
 {
     "personal": {
         "name": "Fatima Imran Asif",
-        "name2": "Fatima Imran",
+        "name2": "FATIMA IMRAN ASIF",
+        "name3": "Fatima Imran",
         "nametag": "FI.",
-        "email": "fati.imran786@gmail.com"
+        "email": "fati.imran786@gmail.com",
+        "titles": ["ASO Expert", "Content Analyst", "Marketing Analyst"]
     }
 }

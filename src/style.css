@@ -246,8 +246,10 @@ button:focus {
   position: fixed !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
+  background-clip: border-box;
   width: 100%;
   height: 100%;
+  /* border: 1px solid red; */
 }
 
 .home-header {
@@ -256,6 +258,7 @@ button:focus {
 
 .home-section {
   position: relative;
+  /* border: 1px solid red; */
   z-index: -1;
   background-image: var(--image-gradient), url(./Assets/home-bg.jpg);
   background-position: top center;

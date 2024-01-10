@@ -19,8 +19,14 @@ function Particle() {
             opacity: 0.03,
           },
           move: {
-            direction: "right",
-            speed: 0.05,
+            direction: "none",
+            random: true,
+            speed: 0.2,
+            enable: true,
+            outModes: {
+                default: "bounce",
+            },
+            straight: false
           },
           size: {
             value: 1,
