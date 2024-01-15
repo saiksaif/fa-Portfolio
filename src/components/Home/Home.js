@@ -42,6 +42,7 @@ function Home() {
             </Col>
           </Row>
         </Container>
+        <div className="goDownBtnHomt">Hi</div>
       </Container>
       <Home2 />
     </section>
